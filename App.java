@@ -5,7 +5,7 @@
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World! error";
+    private static final String MESSAGE = "Hello World!";
 
     public App() {}
 
